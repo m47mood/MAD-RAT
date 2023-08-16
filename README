@@ -1,0 +1,6 @@
+To run this script successfully you need to do the following:
+1- Put all file in the same folder
+2- Make sure you download Mimikatz in same folder (check the script)
+3- Install RSAT
+4- Always check any script before running.
+5- Disable Real-time protection before running.
